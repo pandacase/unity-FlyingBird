@@ -6,6 +6,9 @@
 
 ⌨️ Press `Space` to flap.
 
+![a497065a756d3cade6eff35146c10cd](https://github.com/pandacase/unity-FlyingBird/assets/99351752/95e644b4-852d-4e4b-944f-2bf777f0b2e2)
+
+
 ## Features
 
 1. Only drop out of the screen (the whole bird body) would lose the game.
