@@ -16,4 +16,5 @@
 
 1. Online Ranking.
 2. Storable Buff.
-3. Multiple Roles Available.
+3. Multiple-roles Available.
+4. Fireworks in Background.
